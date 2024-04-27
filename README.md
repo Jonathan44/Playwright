@@ -1,1 +1,1 @@
-A repository of Playwright course by Testleaf
+A repository of Playwright course assignments
